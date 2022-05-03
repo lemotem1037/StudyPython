@@ -8,3 +8,13 @@ for x in range(1, 6):      # 5(n+1)까지 출력
 print('Hello', end= ' ')  # 띄어쓰기 공백 가능
 print('World')
 
+for x in range(1, 6):      # 5(n+1)까지 출력
+    for y in range(x, 5):
+        print('*', end='')  #print 뒤에 end 쓰면 공백
+
+for x in range(1, x):      # 5(n+1)까지 출력
+    for y in range(x, 5):
+        print('*', end='')  
+    print('')
+
+    
