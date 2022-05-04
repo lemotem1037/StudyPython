@@ -2,8 +2,8 @@
 # from asyncore import read
 # from codecs import namereplace_errors
 import csv
-from operator import delitem
-from unicodedata import name
+# from operator import delitem
+# from unicodedata import name
 
 file_name = './busanbus_2021.csv'
 
@@ -14,6 +14,5 @@ next(reader) # 제목 줄 있을 때 필요없을 경우
 for line in reader:
     print(line)
 
-    f.close() ## 필수! 
-
+f.close() ## 필수! 
 
