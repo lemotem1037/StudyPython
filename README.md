@@ -3,8 +3,8 @@
 
 ![파이썬](./image/python.png)
 <!-- 
-<img src='./image/python.png' />
-<img src='./image/python.png' />  
+<img src='./image/python.png' /> -->
+
 
 ### 1일차
 - 파이썬 개발환경
