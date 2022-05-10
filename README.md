@@ -72,4 +72,7 @@
 - 코딩테스트
 - 마무리 
 
-### 7일차
+
+```python
+print('Heloo, Python!!')
+```
